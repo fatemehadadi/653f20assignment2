@@ -1,4 +1,4 @@
-# Note:
+# Note
 The codes for all parts of the assingment 2 are uploaded. My laptop CPU is not powerful enough to quickly fully train each of them 10 times.
 I will upload the result of the runs asap. Based on my tests on the beginining phase of the training the performance is reasonable and near to best reported runs in other codes on github.
 
